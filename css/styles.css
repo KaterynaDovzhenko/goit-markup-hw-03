@@ -297,6 +297,7 @@ header {
     border: 1px solid var(--border-color);
     border-radius: 4px;
     padding: 12px 24px;
+    cursor: pointer;
 }
 
 .list-btn-portfolio:hover,
@@ -314,8 +315,9 @@ header {
 
 .portfolio-ex .items {
     border: 1px solid var(--border-color); 
-    margin-left: 19px;
-    margin-bottom: 19px;
+    margin-left: 24px;
+    margin-bottom: 24px;
+    width: calc((100% - 48px)/ 3);
     
 }
 
