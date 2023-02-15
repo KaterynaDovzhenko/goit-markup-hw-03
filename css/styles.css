@@ -322,7 +322,7 @@ img {
 
 .portfolio-ex .items {
     margin-left: 24px;
-    margin-bottom: 24px;
+    margin-bottom: 48px;
     width: calc((100% - 48px)/ 3);
     
 }
