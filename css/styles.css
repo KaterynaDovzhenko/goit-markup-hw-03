@@ -44,6 +44,10 @@ img {
     display: block;
 }
 
+.section {
+    padding-top: 120px;
+}
+
 /* ======================= /GLOBAL ======================= */
 
 .container {
@@ -191,9 +195,6 @@ img {
     padding-bottom: 188px;
 }
 
-.section {
-    padding-top: 120px;
-}
 
 .btn {
     text-align: center;
@@ -235,6 +236,9 @@ img {
     margin-bottom: 72px;
 }
 
+.do {
+  padding-bottom: 120px;
+}
 
 .do .list {
     display: flex;
@@ -244,8 +248,10 @@ img {
     margin-right: 24px; 
 }
 
+
 .team {
     background-color: var(--background-color);
+     padding-bottom: 120px;
 }
 
 .list-team {
